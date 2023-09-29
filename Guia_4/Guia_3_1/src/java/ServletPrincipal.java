@@ -80,8 +80,7 @@ public class ServletPrincipal extends HttpServlet {
             print.println("<!DOCTYPE html>");
             print.println("<html>");
             print.println("<head>");
-            print.println("<title>Login Sistema Escolar</title>");
-            print.println("</head>");
+            print.println("<title>Login Sistema Escolar 1.0</title>");          print.println("</head>");
             print.println("<body>");
             print.println("<h1>Bienvenido al Sistema Escolar </h1>");
             print.println("</body>");
